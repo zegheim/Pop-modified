@@ -14,11 +14,11 @@ This script is only tested on *my* Pop!_OS 20.04 LTS x86_64 installation (i.e. i
 
 * Run `cp gnome-shell-theme.gresource.backup gnome-shell-theme.gresource`; this creates a copy that we will be working with.
 
+* Edit the `WORKDIR` variable in `utils/extract.sh` and `utils/compile.sh` to point to where you cloned the repo.
+
 * At this point you would want to probably commit and push to your own fork as a safe point.
 
 # Usage
-
-* Edit the `WORKDIR` variable in `utils/extract.sh` and `utils/compile.sh` to point to where you cloned the repo.
 
 * Run `./utils/extract.sh`. This extracts the `gresource` binary into the folder `theme`.
 
