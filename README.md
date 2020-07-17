@@ -30,7 +30,7 @@ This script is only tested on *my* Pop!_OS 20.04 LTS x86_64 installation (i.e. i
 
 # Troubleshooting
 
-* If you brick your installation, your best bet is to probably [boot from a live USB](https://support.system76.com/articles/live-disk/#for-ubuntu\/pop\!_os), and mount your original installation by following the steps [here](https://support.system76.com/articles/pop-recovery/). Once you do so, try and undo the last step that caused your installation to be bricked.
+* If you brick your installation, your best bet is to probably [boot from a live USB](https://support.system76.com/articles/live-disk/#for-ubuntu\/pop\!_os), and mount your original installation by following the steps [here](https://support.system76.com/articles/pop-recovery/). Once you do so, try and undo the breaking change you introduced.
 
 # Links that I found useful while writing this script
 
