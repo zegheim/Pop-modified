@@ -2,6 +2,8 @@
 
 This script is provided as is, with no warranty whatsoever. There is a risk of bricking your installation if you mess around with the wrong files. Be prepared to get your hands dirty!
 
+This script is only tested on *my* Pop!_OS 20.04 LTS x86_64 installation (i.e. it works on my PC). Your mileage may vary, especially if you are not using Pop.
+
 # Initial setup
 
 * Fork, clone, and `cd` into this repo.
