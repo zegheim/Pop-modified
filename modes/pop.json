@@ -1,6 +1,6 @@
 {
     "parentMode": "user",
-    "stylesheetName": "gnome-shell-modified.css",
+    "stylesheetName": "gnome-shell-dark.css",
     "themeResourceName": "theme/Pop-modified/gnome-shell-theme.gresource",
     "enabledExtensions": [
         "alt-tab-raise-first-window@system76.com",
