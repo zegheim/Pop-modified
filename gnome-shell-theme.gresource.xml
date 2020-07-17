@@ -28,9 +28,9 @@
     <file>toggle-off-hc.svg</file>
     <file>calendar-today-dark.svg</file>
     <file>key-enter.svg</file>
-    <file>original.css</file>
     <file>checkbox-focused.svg</file>
     <file>pad-osd.css</file>
+    <file>gnome-shell-modified.css</file>
     <file>toggle-on.svg</file>
     <file>calendar-today.svg</file>
     <file>checkbox-off-focused-dark.svg</file>
@@ -38,6 +38,7 @@
     <file>checkbox-focused-dark.svg</file>
     <file>gnome-shell-high-contrast-dark.css</file>
     <file>toggle-on-hc.svg</file>
+    <file>gdm3-modified.css</file>
     <file>key-layout-dark.svg</file>
     <file>gnome-shell-dark.css</file>
     <file>key-shift-dark.svg</file>
