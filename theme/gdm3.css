@@ -1,12 +1,12 @@
 @import url("resource:///org/gnome/shell/theme/original.css");
 
 .unlock-dialog-clock {
-  color: black;
-  font-weight: 600;
+  color: black !important;
+  font-weight: 600 !important;
 }
 
 .unlock-dialog-clock-date {
-  font-size: 64pt;
+  font-size: 64pt !important;
 }
 
 #lockDialogGroup {
