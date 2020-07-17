@@ -1,6 +1,5 @@
 @import url("resource:///org/gnome/shell/theme/gnome-shell-original.css");
 
 .unlock-dialog-clock {
-  color: black;
   font-weight: 600;
 }
