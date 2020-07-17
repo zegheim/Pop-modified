@@ -2040,8 +2040,8 @@ StScrollBar {
 
 /* Screen Shield */
 .unlock-dialog-clock {
-  color: black;
-  font-weight: 400;
+  color: white;
+  font-weight: 300;
   text-align: center;
   spacing: 24px;
   padding-bottom: 2.5em; }
