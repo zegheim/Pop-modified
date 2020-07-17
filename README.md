@@ -18,6 +18,8 @@ This script is only tested on *my* Pop!_OS 20.04 LTS x86_64 installation (i.e. i
 
 # Usage
 
+* Edit the `WORKDIR` variable in `utils/extract.sh` and `utils/compile.sh` to point to where you cloned the repo.
+
 * Run `./utils/extract.sh`. This extracts the `gresource` binary into the folder `theme`.
 
 * Your entry to most edits should be on `gdm3.css` (e.g. to change login screen background) and / or `gnome-shell.css` (e.g. to change shell related stuff). DO NOT remove the `@import` statements at the top of these files!
