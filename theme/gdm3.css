@@ -8,3 +8,7 @@
 .unlock-dialog-clock-date {
   font-size: 64pt;
 }
+
+#lockDialogGroup {
+  background-color: #f2c1b7; 
+}
