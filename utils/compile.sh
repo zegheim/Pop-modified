@@ -9,7 +9,8 @@ echo '<?xml version="1.0" encoding="UTF-8"?>
   <gresource prefix="org/gnome/shell/theme">' > $XML
 
 for fname in `find ${WORKDIR}/theme -type f`; do
-    echo "    <file>${fname}</file>" >> $XML
+    rname=${fname#${WORKDIR}/theme/}
+    echo "    <file>${rname}</file>" >> $XML
 done
 
 echo '  </gresource>
