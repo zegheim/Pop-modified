@@ -13,12 +13,12 @@
     <file>checkbox.svg</file>
     <file>dash-placeholder.svg</file>
     <file>gdm3.css</file>
-    <file>gdm3-modified.css</file>
+    <file>gdm3-original.css</file>
     <file>gnome-shell.css</file>
     <file>gnome-shell-dark.css</file>
     <file>gnome-shell-high-contrast.css</file>
     <file>gnome-shell-high-contrast-dark.css</file>
-    <file>gnome-shell-modified.css</file>
+    <file>gnome-shell-original.css</file>
     <file>icons/eye-not-looking-symbolic.svg</file>
     <file>icons/eye-open-negative-filled-symbolic.svg</file>
     <file>icons/message-indicator-symbolic.svg</file>
