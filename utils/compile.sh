@@ -10,7 +10,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?>
 
 cd ${WORKDIR}/theme
 
-for fname in `find . -type f`; do
+for fname in `find . -type f | sort`; do
     rname=${fname#./}
     echo "    <file>${rname}</file>" >> $XML
 done
