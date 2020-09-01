@@ -1,9 +1,16 @@
 @import url("resource:///org/gnome/shell/theme/gnome-shell-original.css");
 
+/* Increase font thickness of unlock clock */
 .unlock-dialog-clock {
   font-weight: 600;
 }
 
+/* Center align taskbar clock */
 .clock-display-box {
   text-align: center;
+}
+
+/* Hide dropdown arrows */
+.pop-menu-arrow {
+  display: none;
 }
