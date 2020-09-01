@@ -3,3 +3,7 @@
 .unlock-dialog-clock {
   font-weight: 600;
 }
+
+.clock-display-box {
+  text-align: center;
+}
