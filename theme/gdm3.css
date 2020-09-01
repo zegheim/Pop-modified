@@ -3,3 +3,8 @@
 #lockDialogGroup {
   background-color: #f2c1b7; 
 }
+
+/* See https://askubuntu.com/a/1082380/1106528 */
+#panel .clock-display {
+  text-align: center;
+}
