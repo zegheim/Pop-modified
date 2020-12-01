@@ -6,5 +6,5 @@
 
 /* Hide dropdown arrows */
 .popup-menu-arrow {
-  display: none;
+  display: none !important;
 }
