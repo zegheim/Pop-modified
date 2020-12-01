@@ -1,5 +1,10 @@
 @import url("resource:///org/gnome/shell/theme/gdm3-original.css");
 
 #lockDialogGroup {
-  background-color: #c2f78; 
+  background-color: #c27f78;
+}
+
+/* Hide dropdown arrows */
+.popup-menu-arrow {
+  display: none;
 }
