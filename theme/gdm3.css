@@ -2,9 +2,8 @@
 
 #lockDialogGroup {
   background-color: #c27f78;
-}
-
-/* Hide dropdown arrows */
-.popup-menu-arrow {
-  display: none !important;
+  background: url(file:///home/zegheim/Pictures/persona/kasumi_yoshizawa_ending_credits_wallpaper_by_rlasukabaka_ddvinb1-fullview.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }

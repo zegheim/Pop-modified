@@ -9,8 +9,3 @@
 .clock-display-box {
   text-align: center;
 }
-
-/* Hide dropdown arrows */
-.popup-menu-arrow {
-  display: none !important;
-}
