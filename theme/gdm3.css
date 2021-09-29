@@ -1,9 +1,8 @@
 @import url("resource:///org/gnome/shell/theme/gdm3-original.css");
 
 #lockDialogGroup {
-  background-color: #c27f78;
-  background: url(file:///home/zegheim/Pictures/persona/kasumi_yoshizawa_ending_credits_wallpaper_by_rlasukabaka_ddvinb1-fullview.jpg);
+  background: #000000 url(file:///home/zegheim/Pictures/persona/kasumi_yoshizawa_ending_credits_wallpaper_by_rlasukabaka_ddvinb1-fullview.jpg);
+  background-position: 0 0;
+  background-size: 2560px 1440px;
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
 }
