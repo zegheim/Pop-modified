@@ -1,8 +1,8 @@
 @import url("resource:///org/gnome/shell/theme/gdm3-original.css");
 
-/* #lockDialogGroup {
+#lockDialogGroup {
   background: #000000 url(file:///home/zegheim/Pictures/persona/p5_night.jpg);
   background-position: 0 0;
   background-size: 2560px 1440px;
   background-repeat: no-repeat;
-} */
+}
