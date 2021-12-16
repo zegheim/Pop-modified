@@ -4,8 +4,3 @@
 .unlock-dialog-clock {
   font-weight: 600;
 }
-
-/* Center align taskbar clock */
-.clock-display-box {
-  text-align: center;
-}

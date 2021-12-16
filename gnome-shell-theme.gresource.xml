@@ -12,13 +12,14 @@
     <file>checkbox-off.svg</file>
     <file>checkbox.svg</file>
     <file>dash-placeholder.svg</file>
-    <file>gdm3.css</file>
-    <file>gdm3-original.css</file>
+    <file>gdm.css</file>
+    <file>gdm-original.css</file>
     <file>gnome-shell.css</file>
     <file>gnome-shell-dark.css</file>
     <file>gnome-shell-high-contrast.css</file>
     <file>gnome-shell-high-contrast-dark.css</file>
     <file>gnome-shell-original.css</file>
+    <file>gnome-shell-start.svg</file>
     <file>icons/eye-not-looking-symbolic.svg</file>
     <file>icons/eye-open-negative-filled-symbolic.svg</file>
     <file>icons/message-indicator-symbolic.svg</file>
@@ -26,6 +27,22 @@
     <file>icons/pointer-drag-symbolic.svg</file>
     <file>icons/pointer-primary-click-symbolic.svg</file>
     <file>icons/pointer-secondary-click-symbolic.svg</file>
+    <file>icons/scalable/actions/color-pick.svg</file>
+    <file>icons/scalable/actions/pointer-double-click-symbolic.svg</file>
+    <file>icons/scalable/actions/pointer-drag-symbolic.svg</file>
+    <file>icons/scalable/actions/pointer-primary-click-symbolic.svg</file>
+    <file>icons/scalable/actions/pointer-secondary-click-symbolic.svg</file>
+    <file>icons/scalable/actions/preview-close-symbolic.svg</file>
+    <file>icons/scalable/status/carousel-arrow-back-24-symbolic.svg</file>
+    <file>icons/scalable/status/carousel-arrow-next-24-symbolic.svg</file>
+    <file>icons/scalable/status/eye-not-looking-symbolic.svg</file>
+    <file>icons/scalable/status/eye-open-negative-filled-symbolic.svg</file>
+    <file>icons/scalable/status/keyboard-caps-lock-filled-symbolic.svg</file>
+    <file>icons/scalable/status/keyboard-enter-symbolic.svg</file>
+    <file>icons/scalable/status/keyboard-hide-symbolic.svg</file>
+    <file>icons/scalable/status/keyboard-layout-filled-symbolic.svg</file>
+    <file>icons/scalable/status/keyboard-shift-filled-symbolic.svg</file>
+    <file>icons/scalable/status/message-indicator-symbolic.svg</file>
     <file>key-enter.svg</file>
     <file>key-hide-dark.svg</file>
     <file>key-hide.svg</file>
@@ -45,5 +62,6 @@
     <file>toggle-on-dark.svg</file>
     <file>toggle-on-hc.svg</file>
     <file>toggle-on.svg</file>
+    <file>workspace-placeholder.svg</file>
   </gresource>
 </gresources>

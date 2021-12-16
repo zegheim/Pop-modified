@@ -1,0 +1,5 @@
+@import url("resource:///org/gnome/shell/theme/gdm-original.css");
+
+#lockDialogGroup {
+  background-color: #c27f78;
+}

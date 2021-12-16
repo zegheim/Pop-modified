@@ -8,9 +8,9 @@ for r in `gresource list $GRESOURCE`; do
 done
 
 
-if [ ! -f "$WORKDIR/theme/gdm3-original.css" ]; then
-    mv $WORKDIR/theme/gdm3.css $WORKDIR/theme/gdm3-original.css
-    echo '@import url("resource:///org/gnome/shell/theme/gdm3-original.css");' > $WORKDIR/theme/gdm3.css
+if [ ! -f "$WORKDIR/theme/gdm-original.css" ]; then
+    mv $WORKDIR/theme/gdm.css $WORKDIR/theme/gdm-original.css
+    echo '@import url("resource:///org/gnome/shell/theme/gdm-original.css");' > $WORKDIR/theme/gdm3.css
 fi
 
 if [ ! -f "$WORKDIR/theme/gnome-shell-original.css" ]; then
