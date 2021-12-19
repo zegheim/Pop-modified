@@ -1,6 +1,6 @@
 #!/bin/sh
 
-WORKDIR=${HOME}/.local/share/gnome-shell/theme/Pop-modified
+WORKDIR=${HOME}/Documents/Pop-modified
 GRESOURCE=${WORKDIR}/gnome-shell-theme.gresource
 
 for r in `gresource list $GRESOURCE`; do
