@@ -1206,7 +1206,7 @@ StScrollBar {
 
 /* Top Bar */
 #panel {
-  background-color: #000;
+  background-color: #211F1F;
   font-weight: bold;
   height: 2.2em;
   font-feature-settings: "tnum";
@@ -1217,7 +1217,7 @@ StScrollBar {
       -panel-corner-opacity: 0; }
   #panel .panel-corner {
     -panel-corner-radius: 5px;
-    -panel-corner-background-color: #000;
+    -panel-corner-background-color: #211F1F;
     -panel-corner-border-width: 2px;
     -panel-corner-border-color: transparent;
     -panel-corner-opacity: 1;
