@@ -1,6 +1,6 @@
 @import url("resource:///org/gnome/shell/theme/gnome-shell-original.css");
 
 /* Increase font thickness of unlock clock */
-.unlock-dialog-clock {
+.unlock-dialog-clock,.unlock-dialog-clock-time,.unlock-dialog-clock-date {
   font-weight: 600;
 }
